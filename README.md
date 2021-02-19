@@ -1,9 +1,6 @@
 ### Hi there 👋
 I am Uladzimir and I love programming, how it changed my thinking and ability to think.
 
-### I've learned such stack of technologies:
-HTML, CSS3/SCSS, JavaScript, Figma, Webpack, GIT, TypeScript, Team development
-
 ### Besides this, I have some experience in:
 * [Node.js](https://app.rs.school/certificate/k6up93b8)
 * [Angular](https://app.rs.school/certificate/pmkp2n4n)
