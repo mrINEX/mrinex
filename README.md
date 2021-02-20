@@ -14,6 +14,8 @@ I am Uladzimir and I love programming, how it changed my thinking and ability to
   * [gem-puzzle](https://mrinex.github.io/gem-puzzle/) - classic gem-puzzle game
   * [rs-css](https://rolling-scopes-school.github.io/mrinex-JS2020Q3/)
   * ... will continue ...
+* Node.js
+  * [kingdom-rush-clone](https://kingdom-rush-rsclone.netlify.app/) - rest api for game
 
 <!--
 **mrINEX/mrinex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
